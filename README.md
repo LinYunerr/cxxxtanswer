@@ -1,1 +1,9 @@
-# cxxxtanswer
+# cxxxtanswer project 2020.4.9
+
+致力于做一个公益性质的答案库
+
+# 当前进度
+
+## 超星学习通
+
+1. 金融学 10%
